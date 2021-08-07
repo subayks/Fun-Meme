@@ -1,0 +1,26 @@
+PODS:
+  - JVFloatLabeledTextField (1.2.2)
+  - NVActivityIndicatorView/Base (5.1.1)
+  - NVActivityIndicatorView/Extended (5.1.1):
+    - NVActivityIndicatorView/Base
+  - paper-onboarding (6.1.5)
+
+DEPENDENCIES:
+  - JVFloatLabeledTextField
+  - NVActivityIndicatorView/Extended
+  - paper-onboarding
+
+SPEC REPOS:
+  trunk:
+    - JVFloatLabeledTextField
+    - NVActivityIndicatorView
+    - paper-onboarding
+
+SPEC CHECKSUMS:
+  JVFloatLabeledTextField: df48598472ee015701d509f43e59492a0d4ca208
+  NVActivityIndicatorView: 1f6c5687f1171810aa27a3296814dc2d7dec3667
+  paper-onboarding: fede1799b1da6988f3788e3b71654583c6f3bce1
+
+PODFILE CHECKSUM: 4ef3037b16aa3e26f7e1c84d5a709656cdd44349
+
+COCOAPODS: 1.8.4

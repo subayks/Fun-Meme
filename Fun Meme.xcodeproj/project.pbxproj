@@ -3,7 +3,7 @@
 	archiveVersion = 1;
 	classes = {
 	};
-	objectVersion = 50;
+	objectVersion = 51;
 	objects = {
 
 /* Begin PBXBuildFile section */
@@ -16,6 +16,22 @@
 		09572FC426BE88BD008AFB4B /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 09572FC226BE88BD008AFB4B /* LaunchScreen.storyboard */; };
 		09572FCF26BE88BD008AFB4B /* Fun_MemeTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 09572FCE26BE88BD008AFB4B /* Fun_MemeTests.swift */; };
 		09572FDA26BE88BD008AFB4B /* Fun_MemeUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 09572FD926BE88BD008AFB4B /* Fun_MemeUITests.swift */; };
+		09FE752126BE901D00DF16F4 /* MemeDashBoardViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 09FE752026BE901D00DF16F4 /* MemeDashBoardViewController.swift */; };
+		09FE752326BE9A2600DF16F4 /* OnBoardingViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 09FE752226BE9A2600DF16F4 /* OnBoardingViewController.swift */; };
+		09FE752526BECF1D00DF16F4 /* MemeListTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 09FE752426BECF1D00DF16F4 /* MemeListTableViewCell.swift */; };
+		09FE752726BECF9900DF16F4 /* CategoryTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 09FE752626BECF9900DF16F4 /* CategoryTableViewCell.swift */; };
+		09FE752926BED03500DF16F4 /* CategoryNameCollectionViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 09FE752826BED03500DF16F4 /* CategoryNameCollectionViewCell.swift */; };
+		09FE753526BED72100DF16F4 /* Meme8.png in Resources */ = {isa = PBXBuildFile; fileRef = 09FE752B26BED71E00DF16F4 /* Meme8.png */; };
+		09FE753626BED72100DF16F4 /* Meme1.png in Resources */ = {isa = PBXBuildFile; fileRef = 09FE752C26BED71F00DF16F4 /* Meme1.png */; };
+		09FE753726BED72100DF16F4 /* Meme6.png in Resources */ = {isa = PBXBuildFile; fileRef = 09FE752D26BED71F00DF16F4 /* Meme6.png */; };
+		09FE753826BED72100DF16F4 /* Meme10.png in Resources */ = {isa = PBXBuildFile; fileRef = 09FE752E26BED71F00DF16F4 /* Meme10.png */; };
+		09FE753926BED72100DF16F4 /* Meme9.png in Resources */ = {isa = PBXBuildFile; fileRef = 09FE752F26BED71F00DF16F4 /* Meme9.png */; };
+		09FE753A26BED72100DF16F4 /* Meme4.png in Resources */ = {isa = PBXBuildFile; fileRef = 09FE753026BED72000DF16F4 /* Meme4.png */; };
+		09FE753B26BED72100DF16F4 /* Meme2.png in Resources */ = {isa = PBXBuildFile; fileRef = 09FE753126BED72000DF16F4 /* Meme2.png */; };
+		09FE753C26BED72100DF16F4 /* Meme7.png in Resources */ = {isa = PBXBuildFile; fileRef = 09FE753226BED72000DF16F4 /* Meme7.png */; };
+		09FE753D26BED72100DF16F4 /* Meme5.png in Resources */ = {isa = PBXBuildFile; fileRef = 09FE753326BED72100DF16F4 /* Meme5.png */; };
+		09FE753E26BED72100DF16F4 /* Meme3.png in Resources */ = {isa = PBXBuildFile; fileRef = 09FE753426BED72100DF16F4 /* Meme3.png */; };
+		A11E96F17F3BAA0296A823A6 /* Pods_Fun_Meme.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 2296DC43EA051D348C881E61 /* Pods_Fun_Meme.framework */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -51,6 +67,24 @@
 		09572FD526BE88BD008AFB4B /* Fun MemeUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Fun MemeUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		09572FD926BE88BD008AFB4B /* Fun_MemeUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Fun_MemeUITests.swift; sourceTree = "<group>"; };
 		09572FDB26BE88BD008AFB4B /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		09FE752026BE901D00DF16F4 /* MemeDashBoardViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MemeDashBoardViewController.swift; sourceTree = "<group>"; };
+		09FE752226BE9A2600DF16F4 /* OnBoardingViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OnBoardingViewController.swift; sourceTree = "<group>"; };
+		09FE752426BECF1D00DF16F4 /* MemeListTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MemeListTableViewCell.swift; sourceTree = "<group>"; };
+		09FE752626BECF9900DF16F4 /* CategoryTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CategoryTableViewCell.swift; sourceTree = "<group>"; };
+		09FE752826BED03500DF16F4 /* CategoryNameCollectionViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CategoryNameCollectionViewCell.swift; sourceTree = "<group>"; };
+		09FE752B26BED71E00DF16F4 /* Meme8.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Meme8.png; sourceTree = "<group>"; };
+		09FE752C26BED71F00DF16F4 /* Meme1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Meme1.png; sourceTree = "<group>"; };
+		09FE752D26BED71F00DF16F4 /* Meme6.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Meme6.png; sourceTree = "<group>"; };
+		09FE752E26BED71F00DF16F4 /* Meme10.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Meme10.png; sourceTree = "<group>"; };
+		09FE752F26BED71F00DF16F4 /* Meme9.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Meme9.png; sourceTree = "<group>"; };
+		09FE753026BED72000DF16F4 /* Meme4.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Meme4.png; sourceTree = "<group>"; };
+		09FE753126BED72000DF16F4 /* Meme2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Meme2.png; sourceTree = "<group>"; };
+		09FE753226BED72000DF16F4 /* Meme7.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Meme7.png; sourceTree = "<group>"; };
+		09FE753326BED72100DF16F4 /* Meme5.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Meme5.png; sourceTree = "<group>"; };
+		09FE753426BED72100DF16F4 /* Meme3.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Meme3.png; sourceTree = "<group>"; };
+		2296DC43EA051D348C881E61 /* Pods_Fun_Meme.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_Fun_Meme.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		430632FBF91F10C4817BA31C /* Pods-Fun Meme.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Fun Meme.debug.xcconfig"; path = "Target Support Files/Pods-Fun Meme/Pods-Fun Meme.debug.xcconfig"; sourceTree = "<group>"; };
+		A479BB1A9948DDA7C12DF9B8 /* Pods-Fun Meme.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Fun Meme.release.xcconfig"; path = "Target Support Files/Pods-Fun Meme/Pods-Fun Meme.release.xcconfig"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +92,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				A11E96F17F3BAA0296A823A6 /* Pods_Fun_Meme.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -85,6 +120,8 @@
 				09572FCD26BE88BD008AFB4B /* Fun MemeTests */,
 				09572FD826BE88BD008AFB4B /* Fun MemeUITests */,
 				09572FB226BE88BA008AFB4B /* Products */,
+				76FBEEF51A3E4AD8C066A66F /* Pods */,
+				EC134EF779E815D6F77A1B28 /* Frameworks */,
 			);
 			sourceTree = "<group>";
 		};
@@ -101,6 +138,7 @@
 		09572FB326BE88BA008AFB4B /* Fun Meme */ = {
 			isa = PBXGroup;
 			children = (
+				09FE752A26BED6F000DF16F4 /* Image */,
 				09572FB426BE88BA008AFB4B /* AppDelegate.swift */,
 				09572FB626BE88BA008AFB4B /* SceneDelegate.swift */,
 				09572FB826BE88BA008AFB4B /* ViewController.swift */,
@@ -109,6 +147,11 @@
 				09572FC226BE88BD008AFB4B /* LaunchScreen.storyboard */,
 				09572FC526BE88BD008AFB4B /* Info.plist */,
 				09572FBD26BE88BA008AFB4B /* Fun_Meme.xcdatamodeld */,
+				09FE752026BE901D00DF16F4 /* MemeDashBoardViewController.swift */,
+				09FE752226BE9A2600DF16F4 /* OnBoardingViewController.swift */,
+				09FE752426BECF1D00DF16F4 /* MemeListTableViewCell.swift */,
+				09FE752626BECF9900DF16F4 /* CategoryTableViewCell.swift */,
+				09FE752826BED03500DF16F4 /* CategoryNameCollectionViewCell.swift */,
 			);
 			path = "Fun Meme";
 			sourceTree = "<group>";
@@ -131,6 +174,40 @@
 			path = "Fun MemeUITests";
 			sourceTree = "<group>";
 		};
+		09FE752A26BED6F000DF16F4 /* Image */ = {
+			isa = PBXGroup;
+			children = (
+				09FE752C26BED71F00DF16F4 /* Meme1.png */,
+				09FE753126BED72000DF16F4 /* Meme2.png */,
+				09FE753426BED72100DF16F4 /* Meme3.png */,
+				09FE753026BED72000DF16F4 /* Meme4.png */,
+				09FE753326BED72100DF16F4 /* Meme5.png */,
+				09FE752D26BED71F00DF16F4 /* Meme6.png */,
+				09FE753226BED72000DF16F4 /* Meme7.png */,
+				09FE752B26BED71E00DF16F4 /* Meme8.png */,
+				09FE752F26BED71F00DF16F4 /* Meme9.png */,
+				09FE752E26BED71F00DF16F4 /* Meme10.png */,
+			);
+			path = Image;
+			sourceTree = "<group>";
+		};
+		76FBEEF51A3E4AD8C066A66F /* Pods */ = {
+			isa = PBXGroup;
+			children = (
+				430632FBF91F10C4817BA31C /* Pods-Fun Meme.debug.xcconfig */,
+				A479BB1A9948DDA7C12DF9B8 /* Pods-Fun Meme.release.xcconfig */,
+			);
+			path = Pods;
+			sourceTree = "<group>";
+		};
+		EC134EF779E815D6F77A1B28 /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				2296DC43EA051D348C881E61 /* Pods_Fun_Meme.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
@@ -138,9 +215,11 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = 09572FDE26BE88BD008AFB4B /* Build configuration list for PBXNativeTarget "Fun Meme" */;
 			buildPhases = (
+				5C2409A08A96BD02669400B0 /* [CP] Check Pods Manifest.lock */,
 				09572FAD26BE88BA008AFB4B /* Sources */,
 				09572FAE26BE88BA008AFB4B /* Frameworks */,
 				09572FAF26BE88BA008AFB4B /* Resources */,
+				DF3B358AF5EC4E414F9EEACE /* [CP] Embed Pods Frameworks */,
 			);
 			buildRules = (
 			);
@@ -235,8 +314,18 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				09FE753E26BED72100DF16F4 /* Meme3.png in Resources */,
+				09FE753C26BED72100DF16F4 /* Meme7.png in Resources */,
+				09FE753D26BED72100DF16F4 /* Meme5.png in Resources */,
+				09FE753526BED72100DF16F4 /* Meme8.png in Resources */,
+				09FE753926BED72100DF16F4 /* Meme9.png in Resources */,
 				09572FC426BE88BD008AFB4B /* LaunchScreen.storyboard in Resources */,
 				09572FC126BE88BD008AFB4B /* Assets.xcassets in Resources */,
+				09FE753626BED72100DF16F4 /* Meme1.png in Resources */,
+				09FE753826BED72100DF16F4 /* Meme10.png in Resources */,
+				09FE753B26BED72100DF16F4 /* Meme2.png in Resources */,
+				09FE753726BED72100DF16F4 /* Meme6.png in Resources */,
+				09FE753A26BED72100DF16F4 /* Meme4.png in Resources */,
 				09572FBC26BE88BA008AFB4B /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -257,6 +346,48 @@
 		};
 /* End PBXResourcesBuildPhase section */
 
+/* Begin PBXShellScriptBuildPhase section */
+		5C2409A08A96BD02669400B0 /* [CP] Check Pods Manifest.lock */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputFileListPaths = (
+			);
+			inputPaths = (
+				"${PODS_PODFILE_DIR_PATH}/Podfile.lock",
+				"${PODS_ROOT}/Manifest.lock",
+			);
+			name = "[CP] Check Pods Manifest.lock";
+			outputFileListPaths = (
+			);
+			outputPaths = (
+				"$(DERIVED_FILE_DIR)/Pods-Fun Meme-checkManifestLockResult.txt",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n# This output is used by Xcode 'outputs' to avoid re-running this script phase.\necho \"SUCCESS\" > \"${SCRIPT_OUTPUT_FILE_0}\"\n";
+			showEnvVarsInLog = 0;
+		};
+		DF3B358AF5EC4E414F9EEACE /* [CP] Embed Pods Frameworks */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputFileListPaths = (
+				"${PODS_ROOT}/Target Support Files/Pods-Fun Meme/Pods-Fun Meme-frameworks-${CONFIGURATION}-input-files.xcfilelist",
+			);
+			name = "[CP] Embed Pods Frameworks";
+			outputFileListPaths = (
+				"${PODS_ROOT}/Target Support Files/Pods-Fun Meme/Pods-Fun Meme-frameworks-${CONFIGURATION}-output-files.xcfilelist",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-Fun Meme/Pods-Fun Meme-frameworks.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+/* End PBXShellScriptBuildPhase section */
+
 /* Begin PBXSourcesBuildPhase section */
 		09572FAD26BE88BA008AFB4B /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
@@ -265,7 +396,12 @@
 				09572FB926BE88BA008AFB4B /* ViewController.swift in Sources */,
 				09572FBF26BE88BA008AFB4B /* Fun_Meme.xcdatamodeld in Sources */,
 				09572FB526BE88BA008AFB4B /* AppDelegate.swift in Sources */,
+				09FE752326BE9A2600DF16F4 /* OnBoardingViewController.swift in Sources */,
+				09FE752126BE901D00DF16F4 /* MemeDashBoardViewController.swift in Sources */,
+				09FE752526BECF1D00DF16F4 /* MemeListTableViewCell.swift in Sources */,
 				09572FB726BE88BA008AFB4B /* SceneDelegate.swift in Sources */,
+				09FE752926BED03500DF16F4 /* CategoryNameCollectionViewCell.swift in Sources */,
+				09FE752726BECF9900DF16F4 /* CategoryTableViewCell.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -436,9 +572,11 @@
 		};
 		09572FDF26BE88BD008AFB4B /* Debug */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = 430632FBF91F10C4817BA31C /* Pods-Fun Meme.debug.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = 73G569V695;
 				INFOPLIST_FILE = "Fun Meme/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
@@ -453,9 +591,11 @@
 		};
 		09572FE026BE88BD008AFB4B /* Release */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = A479BB1A9948DDA7C12DF9B8 /* Pods-Fun Meme.release.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = 73G569V695;
 				INFOPLIST_FILE = "Fun Meme/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
